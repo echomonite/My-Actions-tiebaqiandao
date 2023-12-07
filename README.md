@@ -119,7 +119,7 @@
 1. 参考[这里](https://github.com/zhonghuaifang/My-Actions/blob/master/backUp/gitSync.md)，安装[pull 插件](https://github.com/apps/pull)，并确认此项目已在 pull 插件的作用下（参考文中 1-d）。
 2. 确保.github/pull.yml 文件正常存在，yml 内上游作者填写正确(此项目已填好，无需更改)。
 3. 将 pull.yml 里面的`mergeMethod: hardreset`修改为`mergeMethod: merge`保存。
-4. ENJOY!上游更改三小时左右就会自动发起同步。
+4. ENJOY!上游更改三小时左右就会自动发起同步。  
 
 ### 鸣谢
 
